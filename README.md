@@ -1,4 +1,4 @@
 Mindy
 =====
 
-A shell UI based on Prompt Toolkit.
+A shell UI based on Textual.
